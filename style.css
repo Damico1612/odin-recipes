@@ -1,0 +1,18 @@
+.background {
+    background-color: navy;
+}
+
+.main-title {
+    font-family: Arial, sans-serif;
+    color: navy;
+    font-size: 200px;
+    text-align: center;
+    background-color: goldenrod;
+}
+
+.main-anchors {
+    font-family: Arial, sans-serif;
+    font-size: larger;
+    color: navy;
+    background-color: goldenrod;
+}
